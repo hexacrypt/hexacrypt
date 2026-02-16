@@ -9,7 +9,7 @@ University of Glasgow / Singapore Institute of Technology
 ## 🚀 Featured Projects
 
 ### 🏦 Corporate Underwriting System
-**Python • Flask **
+**Python • Flask**
 
 - Built full-stack underwriting platform with RBAC and audit logging  
 - Designed rule engine for underwriting logic  
