@@ -37,7 +37,7 @@ University of Glasgow / Singapore Institute of Technology
 
 ## 💼 Experience
 
-### Data Science Intern — Sembcorp Industries
+### Data Science Intern 
 - Built Grafana dashboards for real-time monitoring  
 - Dockerized development environments  
 - Optimized dashboard performance across regions  
