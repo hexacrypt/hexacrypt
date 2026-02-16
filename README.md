@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Benedict 👋
 
-<!--
-**hexacrypt/hexacrypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc (Hons) Computing Science  
+University of Glasgow / Singapore Institute of Technology  
+📍 Singapore  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🏦 Corporate Underwriting System
+**Python • Flask **
+
+- Built full-stack underwriting platform with RBAC and audit logging  
+- Designed rule engine for underwriting logic  
+
+---
+
+### 🌍 Travel Diary (Full-Stack Web App)
+**PHP • MariaDB • MongoDB • SQL**
+
+- Developed authentication & trip tracking platform  
+- Designed hybrid database architecture (SQL + NoSQL)  
+- Implemented advanced multi-filter search  
+- Benchmarked SQL vs MongoDB performance (50k records)
+
+---
+
+### 🏥 Hospital Management System
+**Java • OOP • RBAC**
+
+- Designed modular CLI-based management system  
+- Implemented role-based access control  
+- Built compliance & incident workflow tracking  
+
+---
+
+## 💼 Experience
+
+### Data Science Intern — Sembcorp Industries
+- Built Grafana dashboards for real-time monitoring  
+- Dockerized development environments  
+- Optimized dashboard performance across regions  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Java • Python • SQL • JavaScript • PHP  
+
+**Frameworks & Tools:**  
+Flask • Docker • REST APIs • Git  
+
+**Databases:**  
+MySQL • MariaDB • MongoDB  
+
+
+---
+
+## 📫 Connect With Me
+
+📧 benedictjjshoo@gmail.com  
+🔗 linkedin.com/in/benedictshoo  
